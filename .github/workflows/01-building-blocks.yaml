@@ -1,5 +1,10 @@
-name: hello-world
+<<<<<<< HEAD
+name: 01 bulding blocks
 on: workflow_dispatch
+=======
+name: 01-building-blocks
+on: push
+>>>>>>> 2972e88 (adding runners)
 jobs:
   my-job:
     runs-on: ubuntu-latest
