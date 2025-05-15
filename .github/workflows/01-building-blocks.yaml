@@ -1,4 +1,4 @@
-name: hello-world
+name: 01 buliding blocks
 on: workflow_dispatch
 jobs:
   my-job:
