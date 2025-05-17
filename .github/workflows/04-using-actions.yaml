@@ -2,7 +2,7 @@ name: 04 -Using Actions
 on: push
 jobs:
    bulid:
-     runs-on: ubunru-latest
+     runs-on: ubuntu-latest
      steps:
         - name: Checkout code
           uses: actions/checkout@v4
